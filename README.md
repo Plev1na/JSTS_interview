@@ -2,6 +2,18 @@
 
 This is a small project for a JavaScript interview.
 
+## TODO
+ - [x] Yarn init
+ - [x] Create react app - Typescript template
+ - [] Index.ts
+ - [] Input 
+ - [] Spinner
+ - [] Display area
+ - [] React Context
+ - [] ? Router
+ - [] Refactoring
+ - [] Deployment
+
 ## Goal
 
 Create an UI web application that retrieves and displays the user repositories and organisations in Github.
