@@ -5,14 +5,13 @@ This is a small project for a JavaScript interview.
 ## TODO
  - [x] Yarn init
  - [x] Create react app - Typescript template
- - [] Index.ts
- - [] Input 
- - [] Spinner
- - [] Display area
- - [] React Context
- - [] ? Router
- - [] Refactoring
- - [] Deployment
+ - [ ] Input 
+ - [ ] Spinner
+ - [ ] Display area
+ - [ ] React Context
+ - [ ] ? Router
+ - [ ] Refactoring
+ - [ ] Deployment
 
 ## Goal
 
